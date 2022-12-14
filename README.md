@@ -5,6 +5,7 @@
 <img src="explainer/BMatrix_Explainer-03.png" width="100%">
 <img src="explainer/BMatrix_Explainer-04.png" width="100%">
 <img src="explainer/BMatrix_Explainer-05.png" width="100%">
+<img src="explainer/BMatrix_Explainer-00.png" width="100%">
 <img src="explainer/BMatrix_Explainer-06.png" width="100%">
 <img src="explainer/BMatrix_Explainer-07.png" width="100%">
 <img src="explainer/BMatrix_Explainer-08.png" width="100%">
