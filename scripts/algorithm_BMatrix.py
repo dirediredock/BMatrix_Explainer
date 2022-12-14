@@ -47,21 +47,6 @@ def B_Matrix(G):
     return B_matrix
 
 
-def logarithmic_colormap(mattrix):
-    new_matrix = zeroes_array(mattrix.shape, data_type=float)
-    i = 0
-    for row in mattrix:
-        j = 0
-        for value in row:
-            if value != 0:
-                new_matrix[i, j] = np.log(value + 1)
-            else:
-                new_matrix[i, j] = 0
-            j += 1
-        i += 1
-    return new_matrix
-
-
 def zeroes_array(shape, data_type=None):
     try:
         return np.zeros(shape, dtype=data_type)
